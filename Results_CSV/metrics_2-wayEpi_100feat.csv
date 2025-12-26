@@ -1,0 +1,4 @@
+dataset,model,cv_auc_mean,cv_auc_std,test_acc,test_f1,test_auc
+2-wayEpi_100feat,LogReg,0.4511,0.0404,0.4867,0.4762,0.4921
+2-wayEpi_100feat,RandomForest,0.523,0.0303,0.5267,0.5359,0.5318
+2-wayEpi_100feat,XGBoost,0.5767,0.0605,0.64,0.6447,0.694

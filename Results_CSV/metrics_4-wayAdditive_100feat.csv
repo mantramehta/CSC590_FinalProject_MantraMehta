@@ -1,0 +1,4 @@
+dataset,model,cv_auc_mean,cv_auc_std,test_acc,test_f1,test_auc
+4-wayAdditive_100feat,LogReg,0.9673,0.0036,0.9567,0.9574,0.9906
+4-wayAdditive_100feat,RandomForest,0.9854,0.0101,0.9533,0.9539,0.9925
+4-wayAdditive_100feat,XGBoost,0.986,0.0068,0.96,0.9605,0.9937
