@@ -48,7 +48,12 @@ CSC590_FinalProject_MantraMehta/
 ├── Data/
 │   ├── 2-wayEpi_100feat.txt
 │   ├── 4-wayAdditive_100feat.txt
-│   └── (challenge datasets >25MB included in local version)
+│   ├── 2-wayEpi_10000feat_with_NA.txt
+│   ├── 2Additive_2-wayEpi_100feat.txt
+│   ├── 2Additive_2-wayEpi_10000feat_with_NA.txt
+│   ├── 4-wayAdditive_10000feat_with_NA.txt
+│   ├── 4-wayHeterogeneous_100feat.txt
+│   └── 4-wayHeterogeneous_10000feat_with_NA.txt
 │
 ├── Results_CSV/
 │   ├── metrics_*.csv
@@ -101,12 +106,6 @@ The scripts generate:
 All figures used in the Final Report are located in:
 
 `Final-report/Figures/`
-
-## Large Dataset Policy
-
-GitHub does not allow uploads larger than 25 MB, so some of the challenge datasets (10,000 features) may be excluded from the repository.
-
-If needed, the datasets can be requested directly.
 
 ## Citation
 
